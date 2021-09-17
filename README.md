@@ -3,7 +3,7 @@
 
 ## What ?
 
-A Simple Portfolio built with [AOS] (https://michalsnik.github.io/aos/) and jQuery.
+A Simple Portfolio built with [AOS](https://michalsnik.github.io/aos/) and jQuery.
 
 ## Why ?
 
